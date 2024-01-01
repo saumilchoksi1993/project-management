@@ -1,4 +1,4 @@
-# Project-Management-Roles-Permissions-Admin-bootstrap4-PDF
+# Laravel - Project-Management-Roles-Permissions-Admin-bootstrap4-PDF
 This is a Laravel 7.X admin panel starter project with roles-permissions management based on Spatie Laravel-permission package, Paper Dashboard Design theme and also has jquery, bootstrap 4.X, Bootstrap Data-tables.
 
 # Installation
